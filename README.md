@@ -17,4 +17,57 @@ After the submission deadline, Kaggle and X will evaluate the performance of sub
 
 ## Obejctive
 
+<Good to do>
+
+* Sophisticated Design Pattern
+  * We make the objects along a nice design to develop smartly and systematically
+    
+  * We take into account management of experience (or CI/CD)  
+  * We will show UML design  
+    
+    Research and fix a preferable design pattern
+
+
+<Nice to do>
+
+* Having a clear Strategy and project path
+  * Nice team work and understand what others do
+  * Nice review for the pull requests and smart merging the branches (or works)
+  * High frequent Commits and Pushes
+
+
+<Great to do>
+
+* High Score
+  * Get bronze
+
+
+
 ## Timeline
+
+
+- Phase 1. Set up
+  - Build DB server (Local? / on AWS)
+  - Fix objectives  
+
+<br>
+
+- Phase 2. EDA and Determine (UML) design pattern  
+  - research and fix our strategy
+
+<br>
+
+- Phase 3. Minimal developments for tasks
+  - Make EDA notebooks into modules
+  - Using a MLflow packages and start managing experiments
+
+<br>
+
+- Phase 4. Set up CI/CD 
+  - Define a workflow of developments and break into components
+  - Define training workflow component generally, adjust the modules
+  - Set up Github Action to execute the above components
+
+<br>
+
+- Phase 5. Get high score
